@@ -34,7 +34,7 @@ public class SimpleArrayList {
 				}
 			}
 		}
-
+		
 		for (int i = 0; i < nomes.size(); i++) {
 			showText((i + 1) + "º nome: " + nomes.get(i));
 		}
